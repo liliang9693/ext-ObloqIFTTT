@@ -16,7 +16,7 @@
 * [更新记录](#更新记录)
 
 ## 相关链接
-* 本项目加载链接: ```https://github.com/DFRobot/ext-OBLOQIFTTT```
+* 本项目加载链接: ```https://github.com/liliang9693/ext-ObloqIFTTT```
 
 
 * 用户库教程链接: ```https://mindplus.dfrobot.com.cn/extensions-user```
