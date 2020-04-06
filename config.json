@@ -1,0 +1,46 @@
+{
+  "name": {
+    "zh-cn": "OBLOQ IFTTT",
+    "en": "OBLOQ IFTTT"
+  },
+  "description": {
+    "zh-cn": "IFTTT功能增强包，需配合OBLOQ使用",
+    "en": "IFTTT function enhancement package, need to be used with OBLOQ"
+  },
+  "author": "liliang",
+  "email": "969316753@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "OBLOQ_IFTTT",
+  "platform": [
+    "win",
+    "mac",
+    "web"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.2",
+      "board": [
+        "microbit",
+        "arduino",
+        "arduinonano",
+        "leonardo",
+        "microbit",
+        "mega2560",
+        "romeo",
+        "arduinounor3",
+        "maxbot",
+        "maqueen"
+      ],
+      "main": "main.ts",
+      "files": [
+        "_images/icon.svg",
+        "_locales/zh-cn.json",
+        "_locales/zh-tw.json",
+        "_menus/microbit.json",
+        "main.ts"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"PIN": {
+		"menu":	[["P0", "0"], ["P13", "13"], ["P14", "14"]],
+		"default_setWifi_TX": "14",
+		"default_setWifi_RX": "13"
+	},
+
+	"PORT": {
+		"menu":	[["softwareSerial", "softwareSerial"], ["Serial", "Serial"]],
+		"default_setWifi_PORT": "softwareSerial"
+	}
+
+
+}

@@ -1,0 +1,4 @@
+{
+    "OBLOQ_IFTTT.setIFTTT|block": "IFTTT 设置 event:[EVENT] key:[KEY]",
+    "OBLOQ_IFTTT.postIFTTT|block": "IFTTT(post)发送消息 值1:[V1] 值2:[V2]  值3:[V3]  超时时间:[TO]"
+}
